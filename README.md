@@ -6,3 +6,6 @@
 * Key visualizations and highlights have been added for better analysis of performance of different models.
 * The other problem exercises from 1-4 help to get a better insight on how these methods work. 
 
+## Authors:
+* Yixiong Yang
+* Sanket Biswas
