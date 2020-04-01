@@ -9,3 +9,6 @@
 ## Authors:
 * Yixiong Yang
 * Sanket Biswas
+
+## Mentored and assigned by:
+* Dimosthenis Karatzas 
